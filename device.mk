@@ -30,9 +30,9 @@ PRODUCT_PACKAGES += \
     VisualizationWallpapers \
     librs_jni
 
-# Omni Packages
+# EV Packages
 PRODUCT_PACKAGES += \
-    OmniTorch
+	Torch
 
 # Ramdisk
 PRODUCT_COPY_FILES += \
